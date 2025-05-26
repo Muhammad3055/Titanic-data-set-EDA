@@ -1,5 +1,7 @@
 # Data-science
 #Titanic datset EDA
+data set link= 
+"https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
 Titanic Dataset – Exploratory Data Analysis (EDA)
 This project performs an in-depth exploratory data analysis (EDA) on the Titanic dataset using Python, Pandas, and visualization libraries like Matplotlib and Seaborn. The goal is to clean the data, explore key patterns, and extract actionable insights.
 
@@ -43,15 +45,14 @@ Fare is positively correlated with survival and class.
 
 Sex, Pclass, and Fare are strong indicators for survival.
 
-📊 Sample Visualizations
+Sample Visualizations
 Countplots for categorical features
 
 Histograms for age and fare
 
 Correlation heatmap
 
-<p align="center"> <img src="assets/titanic_countplot.png" width="400"/> <img src="assets/heatmap.png" width="400"/> </p>
-💻 Technologies Used
+ Technologies Used:
 Python 3.x
 
 Pandas
